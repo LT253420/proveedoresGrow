@@ -114,7 +114,7 @@ const searchInputRef = useRef<HTMLInputElement>(null);
             </div>
           )}
 
-      <main className="flex-1 pt-24 pb-8 px-4">
+      <main className="flex-1 pt-24 pb-8 pl-4 pr-6">
         
 <div className="hud-bg">
 
