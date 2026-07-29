@@ -654,6 +654,15 @@ body {
     font-size: 0.65rem;
   }
 
+  .providers-page{
+    width:100%;
+    max-width:860px;
+    margin:0 auto;
+    position: relative;
+    z-index: 2;
+    padding:32px 20px 48px;
+}
+
   .hud-bar__center {
     padding: 0 8px;
   }
