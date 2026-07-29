@@ -69,11 +69,10 @@ body {
 
 
 .providers-page{
+    width:100%;
     max-width:860px;
     margin:0 auto;
-    position: relative;
-    z-index: 2;
-    padding: 32px 20px 48px;
+    padding:32px 20px 48px;
 }
 
 .providers-page::before{
@@ -616,12 +615,7 @@ body {
     z-index:2;
 }
 
-.providers-page{
-    width:100%;
-    max-width:860px;
-    margin:0 auto;
-    padding:32px 20px 48px;
-}
+
 /* FIN PRUEBA DE ARREGLO EN SAFARI*/
 
 /* ===== Responsive ===== */
