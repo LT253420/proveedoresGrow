@@ -89,7 +89,7 @@ body {
     background: var(--surface);
     border: var(--border-width) solid var(--border);
     border-radius: var(--radius);
-    padding:40px;
+    padding:36px;
 
     box-shadow:
         0 0 0 1px var(--color-border-led),
@@ -438,7 +438,7 @@ body {
 .provider-list{
   list-style:none;
   display:grid;
-  gap:12px;
+  gap:16px;
 }
 
 .provider{
