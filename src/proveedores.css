@@ -89,7 +89,7 @@ body {
     background: var(--surface);
     border: var(--border-width) solid var(--border);
     border-radius: var(--radius);
-    padding:36px;
+    padding:40px;
 
     box-shadow:
         0 0 0 1px var(--color-border-led),
