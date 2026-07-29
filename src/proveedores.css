@@ -441,7 +441,7 @@ body {
   width:100%;
   max-width:100%;
   gap:12px;
-  min-width:0;
+  
 }
 
 .provider{
@@ -724,4 +724,12 @@ body {
   inset: 0;
   background: black;
   z-index: 99999;
+}
+
+.providers-page {
+    outline: 2px solid red;
+}
+
+.provider {
+    outline: 2px solid blue;
 }
