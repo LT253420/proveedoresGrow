@@ -197,16 +197,16 @@ const searchInputRef = useRef<HTMLInputElement>(null);
   
           <ul className="provider-list">
             <li className="provider">
-              <span className="provider__name"><em>Mobilogic - Tomas V.:</em></span>
+              <span className="provider__name"><em>Mobilogic - Tomas V.</em></span>
               <span className="provider__loc">(Merlo)</span>
               <p className="provider__desc">Herramientas,Repuestos de calidad, Insumos, Asesoría y más</p>
               <a href="http://wa.me/5491133252726" target="_blank" rel="noopener">wa.me/5491133252726</a>
             </li>
             <li className="provider">
-              <span className="provider__name"><em>SantyCell - Santiago:</em></span>
-              <span className="provider__loc">(Moreno)</span>
-              <p className="provider__desc">Reparaciones de placa y equipos gama media-alta</p>
-              <a href="http://wa.me/5491136456505" target="_blank" rel="noopener">wa.me/5491136456505</a>
+              <span className="provider__name"><em>El Point - Carim M</em></span>
+              <span className="provider__loc">(Jose c Paz)</span>
+              <p className="provider__desc">Venta de productos Apple y Iphone y más!</p>
+              <a href="http://wa.me/5491126792677" target="_blank" rel="noopener">wa.me/5491126792677</a>
             </li>
             <li className="provider">
               <span className="provider__name"><em>Soluciones Técnicas MG - Matias A.</em></span>
@@ -215,7 +215,7 @@ const searchInputRef = useRef<HTMLInputElement>(null);
               <a href="http://wa.me/5491124044642" target="_blank" rel="noopener">wa.me/5491124044642</a>
             </li>
             <li className="provider">
-              <span className="provider__name"><em>NewPlayers_ - Leandro:</em></span>
+              <span className="provider__name"><em>NewPlayers_ - Leandro</em></span>
               <span className="provider__loc">(Ituzaingó)</span>
               <p className="provider__desc">Cambios de glass a pantallas</p>
               <a href="http://wa.me/5491159392017" target="_blank" rel="noopener">wa.me/5491159392017</a>
