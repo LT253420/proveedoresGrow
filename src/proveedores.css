@@ -605,6 +605,7 @@ body {
 
 /* REGLAS */
 
+/* PRUEBA DE ARREGLO EN SAFARI*/
 .provider{
     animation:slideIn .35s ease-out backwards;
 }
@@ -615,6 +616,13 @@ body {
     z-index:2;
 }
 
+.providers-page{
+    width:100%;
+    max-width:860px;
+    margin:0 auto;
+    padding:32px 20px 48px;
+}
+/* FIN PRUEBA DE ARREGLO EN SAFARI*/
 
 /* ===== Responsive ===== */
 @media (max-width: 640px) {
@@ -626,14 +634,6 @@ body {
     padding: 22px 16px;
   }
 
-.providers-page{
-      padding:24px 14px 40px;
-  }
-
-  .provider-card{
-      padding:22px 16px;
-  }
-  
   .card__header h2 {
     font-size: 1.1rem;
   }
