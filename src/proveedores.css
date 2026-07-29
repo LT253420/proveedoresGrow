@@ -730,6 +730,7 @@ body {
   z-index: 99999;
 }
 
+/* Prueba debug Lista proveedores
 .providers-page {
     outline: 2px solid red;
 }
@@ -737,3 +738,5 @@ body {
 .provider {
     outline: 2px solid blue;
 }
+
+*/
