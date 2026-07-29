@@ -626,6 +626,14 @@ body {
     padding: 22px 16px;
   }
 
+.providers-page{
+      padding:24px 14px 40px;
+  }
+
+  .provider-card{
+      padding:22px 16px;
+  }
+  
   .card__header h2 {
     font-size: 1.1rem;
   }
