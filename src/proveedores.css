@@ -438,7 +438,10 @@ body {
 .provider-list{
   list-style:none;
   display:grid;
+  width:100%;
+  max-width:100%;
   gap:12px;
+  min-width:0;
 }
 
 .provider{
@@ -607,7 +610,6 @@ body {
 /* PRUEBA DE ARREGLO EN SAFARI*/
 .provider{
     animation:slideIn .35s ease-out backwards;
-    width: calc(100% - 12px);
 }
 
 .provider-card{
@@ -644,7 +646,6 @@ body {
 
   .provider {
     padding: 14px;
-    width: calc(100% - 12px);
   }
 
   .hud-bar {
