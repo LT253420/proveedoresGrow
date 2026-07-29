@@ -722,9 +722,3 @@ body {
   background: black;
   z-index: 99999;
 }
-
-@supports (-webkit-touch-callout: none) {
-  .provider-list {
-    padding-right:12px;
-  }
-}
