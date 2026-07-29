@@ -723,9 +723,8 @@ body {
   z-index: 99999;
 }
 
-/* PADDING para Safari*/
 @supports (-webkit-touch-callout: none) {
-  .providers-page {
-    padding-right: 32px;
+  .provider-list {
+    padding-right:12px;
   }
 }
